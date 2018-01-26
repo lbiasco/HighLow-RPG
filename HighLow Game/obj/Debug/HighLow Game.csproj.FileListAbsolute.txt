@@ -1,0 +1,48 @@
+P:\HighLow Game\HighLow Game\bin\Debug\HighLow Game.exe.config
+P:\HighLow Game\HighLow Game\obj\Debug\HighLow Game.csprojResolveAssemblyReference.cache
+P:\HighLow Game\HighLow Game\obj\Debug\HighLow_Game.Properties.Resources.resources
+P:\HighLow Game\HighLow Game\obj\Debug\HighLow Game.csproj.GenerateResource.Cache
+P:\HighLow Game\HighLow Game\bin\Debug\HighLow Game.exe
+P:\HighLow Game\HighLow Game\bin\Debug\HighLow Game.pdb
+P:\HighLow Game\HighLow Game\obj\Debug\HighLow Game.exe
+P:\HighLow Game\HighLow Game\obj\Debug\HighLow Game.pdb
+P:\HighLow Game\HighLow Game\obj\Debug\HighLow_Game.highLowMainForm.resources
+D:\Documents\Visual Studio 2013\Projects\HighLow Game\HighLow Game\bin\Debug\HighLow Game.exe.config
+D:\Documents\Visual Studio 2013\Projects\HighLow Game\HighLow Game\obj\Debug\HighLow Game.exe
+D:\Documents\Visual Studio 2013\Projects\HighLow Game\HighLow Game\obj\Debug\HighLow Game.pdb
+D:\Documents\Visual Studio 2013\Projects\HighLow Game\HighLow Game\bin\Debug\HighLow Game.exe
+D:\Documents\Visual Studio 2013\Projects\HighLow Game\HighLow Game\bin\Debug\HighLow Game.pdb
+D:\Documents\Visual Studio 2013\Projects\HighLow Game\HighLow Game\obj\Debug\HighLow Game.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\HighLow Game\HighLow Game\obj\Debug\HighLow_Game.highLowMainForm.resources
+D:\Documents\Visual Studio 2013\Projects\HighLow Game\HighLow Game\obj\Debug\HighLow_Game.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\HighLow Game\HighLow Game\obj\Debug\HighLow Game.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.exe.config
+D:\Documents\Visual Studio 2013\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.exe
+D:\Documents\Visual Studio 2013\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.pdb
+D:\Documents\Visual Studio 2013\Projects\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.exe
+D:\Documents\Visual Studio 2013\Projects\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.pdb
+D:\Documents\Visual Studio 2013\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow_Game.highLowMainForm.resources
+D:\Documents\Visual Studio 2013\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow_Game.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.csproj.GenerateResource.Cache
+P:\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.exe.config
+P:\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.exe
+P:\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.pdb
+P:\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.exe
+P:\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.pdb
+P:\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.csprojResolveAssemblyReference.cache
+P:\HighLow RPG\HighLow Game\obj\Debug\HighLow_Game.highLowMainForm.resources
+P:\HighLow RPG\HighLow Game\obj\Debug\HighLow_Game.Properties.Resources.resources
+P:\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.csproj.GenerateResource.Cache
+N:\Private\Spring2015VideoGame\Biasco\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.exe.config
+N:\Private\Spring2015VideoGame\Biasco\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.exe
+N:\Private\Spring2015VideoGame\Biasco\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.pdb
+Z:\OneDrive\Documents\College\Freshman Year\Spring 2015\PSY 30676\Class files\Projects\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.exe.config
+Z:\OneDrive\Documents\College\Freshman Year\Spring 2015\PSY 30676\Class files\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.exe
+Z:\OneDrive\Documents\College\Freshman Year\Spring 2015\PSY 30676\Class files\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.pdb
+Z:\OneDrive\Documents\College\Freshman Year\Spring 2015\PSY 30676\Class files\Projects\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.exe
+Z:\OneDrive\Documents\College\Freshman Year\Spring 2015\PSY 30676\Class files\Projects\HighLow RPG\HighLow Game\bin\Debug\HighLow Game.pdb
+Z:\OneDrive\Documents\College\Freshman Year\Spring 2015\PSY 30676\Class files\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\College\Freshman Year\Spring 2015\PSY 30676\Class files\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow_Game.highLowMainForm.resources
+Z:\OneDrive\Documents\College\Freshman Year\Spring 2015\PSY 30676\Class files\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow_Game.Properties.Resources.resources
+Z:\OneDrive\Documents\College\Freshman Year\Spring 2015\PSY 30676\Class files\Projects\HighLow RPG\HighLow Game\obj\Debug\HighLow Game.csproj.GenerateResource.Cache
